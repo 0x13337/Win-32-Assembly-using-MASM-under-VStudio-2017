@@ -1,5 +1,5 @@
 ; x86 MASM under VC++ 2017
-; Hello-world
+; Hello-world "Message Box"
 
 .386
 .model flat,stdcall
