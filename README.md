@@ -1,6 +1,7 @@
 # Win 32 Assembly tutorials 
 
 ```
+; Template
 .386
 .model flat,stdcall
 .stack 4096
